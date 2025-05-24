@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e databases
+*.log
+*.sqlite
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Testes
+.coverage
+htmlcov/
